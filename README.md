@@ -52,7 +52,7 @@ I'm a Computer Science student passionate about DevOps, Cloud Computing, and Aut
 📧 Email: [aftabaltafpatel@gmail.com](mailto:aftabaltafpatel@gmail.com)
 
 💼 LinkedIn:
-[www.linkedin.com/in/aftab-patel-8b853539a](http://www.linkedin.com/in/aftab-patel-8b853539a)
+[www.linkedin.com/in/aftab-patel-8b853539a](https://www.linkedin.com/in/aftabpatel-ops)
 
 ---
 
